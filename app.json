@@ -19,11 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.vbkrao.snack311c2474ea9a46978829655ea75f0d9c"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "simple calculator"
+    "description": "simple calculator",
+    "extra": {
+      "eas": {
+        "projectId": "231ad580-cab7-43a6-908a-41b429b94d13"
+      }
+    }
   }
 }
